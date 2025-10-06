@@ -1,0 +1,12 @@
+[submodule "src/px4-offboard"]
+	path = src/px4-offboard
+	url = https://github.com/Jaeyoung-Lim/px4-offboard.git
+[submodule "src/px4_msgs"]
+	path = src/px4_msgs
+	url = https://github.com/PX4/px4_msgs.git
+[submodule "src/px4_ros_com"]
+	path = src/px4_ros_com
+	url = https://github.com/PX4/px4_ros_com.git
+[submodule "agents/micro-xrce-dds-agent"]
+	path = agents/micro-xrce-dds-agent
+	url = https://github.com/eProsima/Micro-XRCE-DDS-Agent.git
