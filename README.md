@@ -2,9 +2,9 @@
 
 ## Requirements
 
-- [Ubuntu](https://ubuntu.com/)
-- [ROS2 Jazzy](https://docs.ros.org/en/jazzy/Installation.html) (tested on Ubuntu 24.04)
-- [Python](https://www.python.org/) 3.7+
+- [Ubuntu 22.04](https://ubuntu.com/)
+- [ROS2 Humble](https://docs.ros.org/en/humble/Installation/Ubuntu-Install-Debs.html)
+- [Python](https://www.python.org/) 3.10
 - [just](https://github.com/casey/just) - Command runner
 
 ## Usage
